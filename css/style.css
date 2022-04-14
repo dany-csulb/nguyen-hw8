@@ -1,0 +1,18 @@
+* {
+  font-family: 'Calibri';
+}
+#headings {
+  background-color: lightgray;
+}
+table, tr, td, th {
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+img {
+  height: 200px;
+  width: 200px;
+  padding-bottom: 20px;
+}
